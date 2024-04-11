@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "firstName": "qassim",
+      "lastName": "mohammed",
+      "email": "mohqass5@hotmail.com",
+      "phone": "0991234567",
+      "checkin": "2024-03-06",
+      "checkout": "2024-03-8",
+      "userId": 1,
+      "hotelName": "tuffes",
+      "roomId": 1
+    }
+  ],
+  "favorite": [
+    {
+      "id": 1,
+      "thumbnails": "https://media.architecturaldigest.com/photos/5bfd6b03f448d42dde22055f/master/w_1600%2Cc_limit/11.%2520The%2520rotunda%2520of%2520the%2520newly-renovated%2520Hotel%2520de%2520Paris%2520in%2520Monaco%2C%2520Monte%2520Carlo%2520-%2520credit%2520MONTE-CARLO%2520Socie%25CC%2581te%25CC%2581%2520des%2520Bains%2520de%2520Mer.jpg",
+      "name": "Haya",
+      "address": "abu-dhabi",
+      "rate": 4,
+      "price": 100,
+      "hotelId": "65fd61fb0ua648eae498d0f3",
+      "userId": "62td61fb01d648eae498d0h3"
+    },
+    {
+      "id": 2,
+      "thumbnails": "https://images.pexels.com/photos/7929313/pexels-photo-7929313.jpeg",
+      "name": "Helton Spain",
+      "address": "Spain",
+      "rate": 7,
+      "price": 50,
+      "hotelId": "65fd61fb0ua648eae498d0f3",
+      "userId": "62td61fb01d648eae498d0h3"
+    }
+  ],
+  "payment": [
+    {
+      "id": 1,
+      "name": "osman",
+      "card_no": "p12389",
+      "end_date": "2024-03-8",
+      "secret_code": 5050506,
+      "userId": 1
+    },
+    {
+      "name": "osman elhadi issam",
+      "cardNo": "1479663",
+      "exDate": "2024-04-28",
+      "code": "1237896",
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}
