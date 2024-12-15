@@ -616,7 +616,7 @@
         "img": "https://i.pinimg.com/564x/3a/18/94/3a189411d16375da1f945d7ef07a36fa.jpg",
         "title": "Men Cotton Jacket",
         "price": 52.9,
-        "quantity": 1
+        "quantity": 1,
         "id": 1
     },
   ],
@@ -625,7 +625,7 @@
         "id": 1,
         "img": "https://i.pinimg.com/564x/36/02/62/36026225438c44d37a1831807dc8dce9.jpg",
         "title": "Men Casual T-Shirts ",
-        "price": 28.95
+        "price": 28.95,
         "id": 1
     },
   ]
